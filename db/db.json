@@ -1,0 +1,52 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "exercise": "Bench Press",
+      "image": "https://cdn3.vectorstock.com/i/1000x1000/39/77/man-pumping-up-muscles-on-bench-press-vector-17283977.jpg",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "exercise": "Squat",
+      "image": "https://cdn1.vectorstock.com/i/1000x1000/33/75/squat-sport-exersice-silhouettes-of-woman-doing-vector-21203375.jpg",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "exercise": "Pushup",
+      "image": "https://cdn4.vectorstock.com/i/1000x1000/14/13/exercising-vector-19151413.jpg",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "exercise": "Dumbbell Shoulder Press",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/07/06/man-doing-overhead-dumbbell-shoulder-press-exercis-vector-39110706.jpg",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "exercise": "Pull Up",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/46/39/man-doing-pull-ups-exercise-flat-vector-38234639.jpg",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "exercise": "Sit Up",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/24/81/fitness-exercising-vector-18782481.jpg",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "exercise": "Bicep Curl",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/72/19/man-doing-standing-dumbbell-bicep-curls-vector-39117219.jpg",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "exercise": "Lunge",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/00/84/man-and-woman-doing-forward-lunges-vector-32710084.jpg",
+      "likes": 0
+    }
+  ]
+}
