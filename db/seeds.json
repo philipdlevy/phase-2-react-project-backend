@@ -1,52 +1,81 @@
 {
-  "toys": [
+  "workouts": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "exercise": "Bench Press",
+      "image": "https://cdn3.vectorstock.com/i/1000x1000/39/77/man-pumping-up-muscles-on-bench-press-vector-17283977.jpg",
+      "likes": 1,
+      "info": "Grab the bar slightly more than shoulder width apart, squeeze your shoulder blades and your core, then bring the bar slowly down to your chest to your sturnum, then push straight back up."
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "exercise": "Squat",
+      "image": "https://cdn1.vectorstock.com/i/1000x1000/33/75/squat-sport-exersice-silhouettes-of-woman-doing-vector-21203375.jpg",
+      "likes": 3,
+      "info": "Stand shoulder width apart, with toes pointed slightly outward. squeeze your core and glutes and slowly lower yourself so that your legs are parallel to the floor, then breathe out and push yourself back up."
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "exercise": "Pushup",
+      "image": "https://cdn4.vectorstock.com/i/1000x1000/14/13/exercising-vector-19151413.jpg",
+      "likes": 0,
+      "info": "Go down on your toes and hands, lower your body until your chest almost touches the floor, puase and slowly push yourself back up. "
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "exercise": "Shoulder Press",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/07/06/man-doing-overhead-dumbbell-shoulder-press-exercis-vector-39110706.jpg",
+      "likes": 0,
+      "info": "Stand with feet shoulder-width apart, and hold the bar at shoulder width with your elbows at a 90-degree angle. Slowly lift the weight above your head without straightening your arms, pause at the top, then slowly return to the starting position."
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "exercise": "Pull Up",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/46/39/man-doing-pull-ups-exercise-flat-vector-38234639.jpg",
+      "likes": 0,
+      "info": "Start with your hands on the bar, slightly more than shoulder width apart. slightly curve your back and tighten your core, then pull yourself towards the bar to chest level, then slowly lower yourself to the starting position."
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "exercise": "Sit Up",
+      "image": "https://cdn2.vectorstock.com/i/1000x1000/24/81/fitness-exercising-vector-18782481.jpg",
+      "likes": 0,
+      "info": "Lie on your back on the floor with kneese bent and feet flat on the floor. Crunch your ab muscles and lift your shoulders and lower back off the floor and try to sit up straight. Hold for a second, then slowly return to starting position."
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "exercise": "Bicep Curl",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/72/19/man-doing-standing-dumbbell-bicep-curls-vector-39117219.jpg",
+      "likes": 0,
+      "info": "Stand shoulder width apart with weight at your side, holding the bar or dumbbells shoulder width apart. Slowly curl the weight up until the weight is almost to your shoulder, then slowly reverse the curl back to the starting position."
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "exercise": "Lunge",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/00/84/man-and-woman-doing-forward-lunges-vector-32710084.jpg",
+      "likes": 0,
+      "info": "Stand up straight, and take a big step forward, landing on the ball of your foot. Slowly lower your body straight down, hold for a second, and step back into place and do it again with the opposite leg."
+    },
+    {
+      "exercise": "test",
+      "image": "https://cdn5.vectorstock.com/i/1000x1000/72/19/man-doing-standing-dumbbell-bicep-curls-vector-39117219.jpg",
+      "likes": 1,
+      "info": "test",
+      "id": 9
+    },
+    {
+      "exercise": "test",
+      "image": "test",
+      "likes": 0,
+      "info": "123",
+      "id": 10
+    },
+    {
+      "exercise": "test",
+      "image": "123",
+      "likes": 0,
+      "info": "test",
+      "id": 11
     }
   ]
 }
