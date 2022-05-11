@@ -4,7 +4,7 @@
       "id": 1,
       "exercise": "Bench Press",
       "image": "https://cdn3.vectorstock.com/i/1000x1000/39/77/man-pumping-up-muscles-on-bench-press-vector-17283977.jpg",
-      "likes": 37,
+      "likes": 46,
       "info": "Grab the bar slightly more than shoulder width apart, squeeze your shoulder blades and your core, then bring the bar slowly down to your chest to your sturnum, then push straight back up."
     },
     {
@@ -46,7 +46,7 @@
       "id": 7,
       "exercise": "Bicep Curl",
       "image": "https://cdn5.vectorstock.com/i/1000x1000/72/19/man-doing-standing-dumbbell-bicep-curls-vector-39117219.jpg",
-      "likes": 0,
+      "likes": 2,
       "info": "Stand shoulder width apart with weight at your side, holding the bar or dumbbells shoulder width apart. Slowly curl the weight up until the weight is almost to your shoulder, then slowly reverse the curl back to the starting position."
     },
     {
@@ -57,11 +57,41 @@
       "id": 8
     },
     {
+      "exercise": "Tricep Pushdown",
+      "image": "https://library.kissclipart.com/20181130/ozq/kissclipart-exercice-triceps-poulie-clipart-pushdown-triceps-b-c267064dfba6884e.jpg",
+      "likes": 6,
+      "info": "Start with arms tucked into your sides. Then push the rope down by extending your triceps. Hold for a second at the bottom then slowly bend your elbows back to starting position",
+      "id": 9
+    },
+    {
+      "exercise": "test",
+      "image": "https://images.everydayhealth.com/images/how-to-train-if-you-have-an-ectomorph-body-type-722x406.jpg",
+      "likes": 2,
+      "info": "test",
+      "id": 17
+    },
+    {
       "exercise": "test",
       "image": "https://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "likes": 0,
       "info": "test",
-      "id": 9
+      "id": 18
+    },
+    {
+      "exercise": "test",
+      "image": "https://images.newscientist.com/wp-content/uploads/2022/05/04153108/SEI_102164921.jpg",
+      "likes": 0,
+      "info": "test",
+      "id": 19
+    }
+  ], 
+
+  "userinfo": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "user1"
     }
   ]
 }
+
